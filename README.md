@@ -1,4 +1,4 @@
-# <center>Hello World 👋</center>
+# <div align = "center"> Hello World 👋 </div>
 
 
 #### I'm GakKYeong Bae, from Korea.
